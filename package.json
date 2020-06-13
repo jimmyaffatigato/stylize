@@ -1,0 +1,15 @@
+{
+  "name": "stylize",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {
+    "csstype": "^2.6.10"
+  },
+  "keywords": [
+    "css",
+    "style"
+  ],
+  "author": "Jimmy Affatigato",
+  "license": "MIT"
+}
