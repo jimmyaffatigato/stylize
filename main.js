@@ -1,6 +1,3 @@
-// SAMPLE INPUT
-// stylize`background: ${"white"}; margin: 1.5em`
-// return { background: "white", margin: "1.5em" }
 const camelize = (str) => {
     return str.replace(/-([\w])/g, (string, letter) => {
         return letter.toUpperCase();
